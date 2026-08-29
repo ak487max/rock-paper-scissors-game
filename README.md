@@ -40,6 +40,8 @@ rock-paper-scissors-game/
 ├── style.css
 ├── script.js
 └── README.md
+
+
 💡 What I Learned
 Working with JavaScript event listeners
 Generating random computer choices
